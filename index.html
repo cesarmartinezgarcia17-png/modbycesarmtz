@@ -12,38 +12,56 @@
     .rom-info h3 { margin: 0 0 4px 0; font-size: 16px; color: #fff; }
     .rom-info p { margin: 0; font-size: 12px; color: #aaa; }
     .btn-download { background: #00e676; color: #000; font-weight: bold; padding: 8px 14px; text-decoration: none; border-radius: 6px; font-size: 13px; }
-    #status { text-align: center; color: #888; margin-top: 20px; }
+    #status { text-align: center; color: #aaa; margin-top: 20px; font-size: 14px; }
   </style>
 </head>
 <body>
 
   <h2>Lista de ROMs</h2>
-  <div id="status">Cargando catálogo...</div>
+  <div id="status">Cargando catálogo de juegos...</div>
   <div id="rom-container"></div>
 
   <script>
-    // Consume el archivo roms.json ubicado en la misma carpeta
-    fetch('./roms.json')
-      .then(res => res.json())
+    // Apunta directamente a tu archivo roms.json en GitHub
+    const JSON_URL = './roms.json';
+
+    fetch(JSON_URL)
+      .then(res => {
+        if (!res.ok) throw new Error('No se pudo encontrar el archivo roms.json');
+        return res.json();
+      })
       .then(data => {
-        document.getElementById('status').style.display = 'none';
         const container = document.getElementById('rom-container');
-        
+        document.getElementById('status').style.display = 'none';
+
+        if (!data || data.length === 0) {
+          document.getElementById('status').innerText = 'No hay ROMs disponibles en la lista.';
+          document.getElementById('status').style.display = 'block';
+          return;
+        }
+
         data.forEach(rom => {
+          // Detecta el nombre, consola y URL sin importar cómo los nombraste en el JSON
+          const nombre = rom.name || rom.nombre || rom.title || 'ROM sin nombre';
+          const consola = rom.system || rom.consola || rom.categoria || 'GBA/SNES';
+          const tamano = rom.size || rom.tamano || '';
+          const urlDescarga = rom.downloadUrl || rom.url || rom.link || '#';
+
           const card = document.createElement('div');
           card.className = 'rom-card';
           card.innerHTML = `
             <div class="rom-info">
-              <h3>${rom.name || rom.nombre || 'ROM'}</h3>
-              <p>${rom.system || rom.consola || ''} ${rom.size ? '• ' + rom.size : ''}</p>
+              <h3>${nombre}</h3>
+              <p>${consola} ${tamano ? '• ' + tamano : ''}</p>
             </div>
-            <a href="${rom.downloadUrl || rom.url}" class="btn-download">Descargar</a>
+            <a href="${urlDescarga}" class="btn-download">Descargar</a>
           `;
           container.appendChild(card);
         });
       })
       .catch(err => {
-        document.getElementById('status').innerText = 'Error al cargar la lista JSON.';
+        console.error(err);
+        document.getElementById('status').innerHTML = '<span style="color: #ff5252;">Error al cargar la lista de ROMs. Revisa que el archivo <b>roms.json</b> exista en tu repositorio.</span>';
       });
   </script>
 </body>
