@@ -1,47 +1,292 @@
 [
   {
-    "name": "19XX: The War Against Destiny",
+    "name": "Metal Slug - Super Vehicle-001",
     "system": "Arcade / FBNeo",
-    "downloadUrl": "https://myrient.erista.me/files/FinalBurn%20Neo/arcade/19xx.zip"
+    "downloadUrl": "https://archive.org"
   },
   {
-    "name": "Street Fighter Zero 3 Mix",
-    "system": "Arcade",
-    "downloadUrl": "https://sfz3mix.github.io/download/0.32/sfz3mix.zip"
-  },
-  {
-    "name": "The King of Fighters 2001 Ultra",
+    "name": "Metal Slug - Super Vehicle-001 (v2)",
     "system": "Arcade / FBNeo",
-    "downloadUrl": "https://myrient.erista.me/files/FinalBurn%20Neo/arcade/kf2k1ult.zip"
+    "downloadUrl": "https://archive.org"
   },
   {
-    "name": "The King of Fighters 2002 Magic Plus",
+    "name": "Metal Slug 2 - Super Vehicle-001/II",
     "system": "Arcade / FBNeo",
-    "downloadUrl": "https://myrient.erista.me/files/FinalBurn%20Neo/arcade/kof2002m.zip"
+    "downloadUrl": "https://archive.org"
   },
   {
-    "name": "The King of Fighters '98 Ultimate Match Hero",
-    "system": "Arcade",
-    "downloadUrl": "https://mdk.cab/download/split/kof98umh.zip"
-  },
-  {
-    "name": "Metal Slug 3 Super Child",
+    "name": "Metal Slug 2 - Super Vehicle-001/II (v2)",
     "system": "Arcade / FBNeo",
-    "downloadUrl": "https://myrient.erista.me/files/FinalBurn%20Neo/arcade/mslug3sc.zip"
+    "downloadUrl": "https://archive.org"
   },
   {
-    "name": "Street Fighter II Prime",
-    "system": "Arcade",
-    "downloadUrl": "https://sf2prime.github.io/download/0.79/sf2prime.zip"
+    "name": "Metal Slug 2 (Crouching Tiger Hidden Dragon Hack)",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org"
   },
   {
-    "name": "Sailor Moon Fights",
-    "system": "SNES",
-    "downloadUrl": "https://archive.org/download/snes_slrmoonfights/snes_slrmoonfights.zip"
+    "name": "Metal Slug 2 (DongGuan Hack)",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org"
   },
   {
-    "name": "Super Mario World Co-Op",
-    "system": "SNES",
-    "downloadUrl": "https://archive.org/download/snes_supermarioworldcoop/snes_supermarioworldcoop.zip"
-  }
-]
+    "name": "Metal Slug 2 (Easy God Hack)",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org"
+  },
+  {
+    "name": "Metal Slug 2 (Flying Mode Hack)",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org"
+  },
+  {
+    "name": "Metal Slug 2 (Plus Hack)",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org"
+  },
+  {
+    "name": "Metal Slug 2 (Remix Hack)",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org"
+  },
+  {
+    "name": "Metal Slug 2 (Turbo Hack)",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org"
+  },
+  {
+    "name": "Metal Slug 2 (Unity Hack)",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org"
+  },
+  {
+    "name": "Metal Slug 3",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org"
+  },
+  {
+    "name": "Metal Slug 3 (v2)",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org"
+  },
+  {
+    "name": "Metal Slug 3 (Clone)",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org"
+  },
+  {
+    "name": "Metal Slug 3 (Cheating Version Q)",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org"
+  },
+  {
+    "name": "Metal Slug 3 (Cheating Version Q - Infinite)",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org"
+  },
+  {
+    "name": "Metal Slug 3 (Cheating Version Q - TFB Hack)",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org"
+  },
+  {
+    "name": "Metal Slug 3 (Easy Boss Hack)",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org"
+  },
+  {
+    "name": "Metal Slug 3 (Easy Start Hack)",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org"
+  },
+  {
+    "name": "Metal Slug 3 (God Mode Hack)",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org"
+  },
+  {
+    "name": "Metal Slug 3 (God Weapon Hack)",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org"
+  },
+  {
+    "name": "Metal Slug 3 (Hardcore Hack)",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org"
+  },
+  {
+    "name": "Metal Slug 3 (Mian Yang Hack)",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org"
+  },
+  {
+    "name": "Metal Slug 3 (Light Weapon Hack)",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org"
+  },
+  {
+    "name": "Metal Slug 3 (Super Death Hack)",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org"
+  },
+  {
+    "name": "Metal Slug 3 (Special Edition Hack)",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org"
+  },
+  {
+    "name": "Metal Slug 3 (Unity Hack)",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org"
+  },
+  {
+    "name": "Metal Slug 3 (Zhong Hua Hack)",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org"
+  },
+  {
+    "name": "Metal Slug 4",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org"
+  },
+  {
+    "name": "Metal Slug 4 (v2)",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org"
+  },
+  {
+    "name": "Metal Slug 4 (Alternate)",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org"
+  },
+  {
+    "name": "Metal Slug 4 (Ammo Reset Hack)",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org"
+  },
+  {
+    "name": "Metal Slug 4 (Clone C)",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org"
+  },
+  {
+    "name": "Metal Slug 4 (DongGuan Hack)",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org"
+  },
+  {
+    "name": "Metal Slug 4 (Light Weapon Hack)",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org"
+  },
+  {
+    "name": "Metal Slug 4 (Light Weapon Q Hack)",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org"
+  },
+  {
+    "name": "Metal Slug 4 (Alternate Q)",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org"
+  },
+  {
+    "name": "Metal Slug 4 (Unity Hack)",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org"
+  },
+  {
+    "name": "Metal Slug 4 (ZJHL Hack)",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org"
+  },
+  {
+    "name": "Metal Slug 4 (ZZF Hack)",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org"
+  },
+  {
+    "name": "Metal Slug 5",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org"
+  },
+  {
+    "name": "Metal Slug 5 (v2)",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org"
+  },
+  {
+    "name": "Metal Slug 5 (Arranged Hack)",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org"
+  },
+  {
+    "name": "Metal Slug 5 (Boss Hack)",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org"
+  },
+  {
+    "name": "Metal Slug 5 (Clone C)",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org"
+  },
+  {
+    "name": "Metal Slug 5 (Cheating Version Q)",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org"
+  },
+  {
+    "name": "Metal Slug 5 (Crouching Tiger Hack)",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org"
+  },
+  {
+    "name": "Metal Slug 5 (Clone D)",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org"
+  },
+  {
+    "name": "Metal Slug 5 (DBJ Hack)",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org"
+  },
+  {
+    "name": "Metal Slug 5 (Easy Start Hack)",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org"
+  },
+  {
+    "name": "Metal Slug 5 (Extended Hack)",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org"
+  },
+  {
+    "name": "Metal Slug 5 (Final Hack)",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org"
+  },
+  {
+    "name": "Metal Slug 5 (Machine Gun Hack)",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org"
+  },
+  {
+    "name": "Metal Slug 5 (Super God Hack)",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org"
+  },
+  {
+    "name": "Metal Slug 5 (Super God Final Hack)",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org"
+  },
+  {
+    "name": "Metal Slug 5 (TMJ Hack)",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org"
+  },
+  {
+    "name": "Metal Slug 5 (Unity Hack)",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org"
+  },
+  {
