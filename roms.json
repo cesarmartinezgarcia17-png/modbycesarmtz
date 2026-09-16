@@ -1,1 +1,47 @@
-{"*":{"download":"https://fightcade.download/fbneo/arcade/*.zip"},"19xx":{"download":"https://myrient.erista.me/files/FinalBurn%20Neo/arcade/19xx.zip"},"md_*":{"download":"https://fightcade.download/fbneo/megadrive/*.zip"},"snes_*":{"download":"https://archive.org/download/snex99xx/*.zip"},"sfz3mix":{"download":"https://sfz3mix.github.io/download/0.32/sfz3mix.zip"},"kf2k1ult":{"download":"https://myrient.erista.me/files/FinalBurn%20Neo/arcade/kf2k1ult.zip"},"kof2002m":{"download":"https://myrient.erista.me/files/FinalBurn%20Neo/arcade/kof2002m.zip"},"kof98umh":{"download":"https://mdk.cab/download/split/kof98umh.zip"},"mslug3sc":{"download":"https://myrient.erista.me/files/FinalBurn%20Neo/arcade/mslug3sc.zip"},"sf2prime":{"download":"https://sf2prime.github.io/download/0.79/sf2prime.zip"},"snes_slrmoonfights":{"download":"https://archive.org/download/snes_slrmoonfights/snes_slrmoonfights.zip"},"snes_supermarioworldcoop":{"download":"https://archive.org/download/snes_supermarioworldcoop/snes_supermarioworldcoop.zip"}}
+[
+  {
+    "name": "19XX: The War Against Destiny",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://myrient.erista.me/files/FinalBurn%20Neo/arcade/19xx.zip"
+  },
+  {
+    "name": "Street Fighter Zero 3 Mix",
+    "system": "Arcade",
+    "downloadUrl": "https://sfz3mix.github.io/download/0.32/sfz3mix.zip"
+  },
+  {
+    "name": "The King of Fighters 2001 Ultra",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://myrient.erista.me/files/FinalBurn%20Neo/arcade/kf2k1ult.zip"
+  },
+  {
+    "name": "The King of Fighters 2002 Magic Plus",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://myrient.erista.me/files/FinalBurn%20Neo/arcade/kof2002m.zip"
+  },
+  {
+    "name": "The King of Fighters '98 Ultimate Match Hero",
+    "system": "Arcade",
+    "downloadUrl": "https://mdk.cab/download/split/kof98umh.zip"
+  },
+  {
+    "name": "Metal Slug 3 Super Child",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://myrient.erista.me/files/FinalBurn%20Neo/arcade/mslug3sc.zip"
+  },
+  {
+    "name": "Street Fighter II Prime",
+    "system": "Arcade",
+    "downloadUrl": "https://sf2prime.github.io/download/0.79/sf2prime.zip"
+  },
+  {
+    "name": "Sailor Moon Fights",
+    "system": "SNES",
+    "downloadUrl": "https://archive.org/download/snes_slrmoonfights/snes_slrmoonfights.zip"
+  },
+  {
+    "name": "Super Mario World Co-Op",
+    "system": "SNES",
+    "downloadUrl": "https://archive.org/download/snes_supermarioworldcoop/snes_supermarioworldcoop.zip"
+  }
+]
