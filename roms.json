@@ -290,37 +290,122 @@
     "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug5unity.zip"
   },
   {
-    "name": "Metal Slug 6",
+    "name": "Metal Slug 5 w",
     "system": "Arcade / FBNeo",
-    "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug6.zip"
+    "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug5w.zip"
   },
   {
-    "name": "Metal Slug 6 (Bootleg)",
+    "name": "Metal Slug 5 x (Bootleg)",
     "system": "Arcade / FBNeo",
-    "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug6b.zip"
+    "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug5x.zip"
   },
   {
-    "name": "Metal Slug X - Super Vehicle-001/II",
+    "name": "Metal Slug 5 zh",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug5zh.zip"
+  },
+  {
+    "name": "Metal Slug dg)",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslugdg.zip"
+  },
+  {
+    "name": "Metal Slug dqy",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslugdqy.zip"
+  },
+  {
+    "name": "Metal Slug dyf1",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslugdyf1.zip"
+  },
+  {
+    "name": "Metal Slug unity",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslugunity.zip"
+  },
+  {
+    "name": "Metal Slug x",
     "system": "Arcade / FBNeo",
     "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslugx.zip"
   },
   {
-    "name": "Metal Slug X (Alternate A)",
+    "name": "Metal Slug 1v2",
     "system": "Arcade / FBNeo",
-    "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslugxa.zip"
+    "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslugx1v2.zip"
   },
   {
-    "name": "Metal Slug X (Alternate B)",
+    "name": "Metal Slug 2r",
     "system": "Arcade / FBNeo",
-    "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslugxb.zip"
+    "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslugx2r.zip"
   },
   {
-    "name": "Metal Slug XX",
+    "name": "Metal Slug 2r1v2",
     "system": "Arcade / FBNeo",
-    "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslugxx.zip"
+    "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslugx2r1v2.zip"
   },
   {
-    "name": "Metal Slug XX (Bootleg / Hack Soldier Rebel)",
+    "name": "Metal Slug 2reb",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslugx2rev.zip"
+  },
+  {
+    "name": "Metal Slug c1",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslugxc1.zip"
+  },
+  {
+    "name": "Metal Slug c2",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslugxc2.zip"
+  },
+  {
+    "name": "Metal Slug cqi",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslugxcqi.zip"
+  },
+  {
+    "name": "Metal Slug fc2",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslugxfc2.zip"
+  },
+  {
+    "name": "Metal Slug dg",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslugxdg.zip"
+  },
+  {
+    "name": "Metal Slug eb",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslugxebzip"
+  },
+  {
+    "name": "Metal Slug lb",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslugxlb.zip"
+  },
+  {
+    "name": "Metal Slug mdj",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslugmdj.zip"
+  },
+  {
+    "name": "Metal Slug srf",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslugxsrf.zip"
+  },
+  {
+    "name": "Metal Slug unity",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslugxunity.zip"
+  },
+  {
+    "name": "Metal Slug xxb",
+    "system": "Arcade / FBNeo",
+    "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslugxxb.zip"
+  },
+  {
+    "name": "Metal Slug fc2",
     "system": "Arcade / FBNeo",
     "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslugxxb.zip"
   }
