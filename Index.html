@@ -37,7 +37,7 @@
               <h3>${rom.name || rom.nombre || 'ROM'}</h3>
               <p>${rom.system || rom.consola || ''} ${rom.size ? '• ' + rom.size : ''}</p>
             </div>
-            <a href="${rom.downloadUrl || rom.url}" class="btn-download">Descargar</a>
+            <a href="${rom.downloadUrl || rom.url}" class="btn-download">Descargar/Iniciar</a>
           `;
           container.appendChild(card);
         });
