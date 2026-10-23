@@ -1,6 +1,6 @@
 [
   {
-    "name": "Metal Slug - Super Vehicle-001",
+    "name": "Metal Slug - ROM parent",
     "system": "Arcade / FBNeo",
     "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug.zip"
   },
@@ -10,7 +10,7 @@
     "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug1v2.zip"
   },
   {
-    "name": "Metal Slug 2 - Super Vehicle-001/II",
+    "name": "Metal Slug 2 - ROM parent",
     "system": "Arcade / FBNeo",
     "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug2.zip"
   },
@@ -60,7 +60,7 @@
     "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug2unity.zip"
   },
   {
-    "name": "Metal Slug 3",
+    "name": "Metal Slug 3 ROM parent",
     "system": "Arcade / FBNeo",
     "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug3.zip"
   },
@@ -80,7 +80,7 @@
     "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug3cq.zip"
   },
   {
-    "name": "Metal Slug 3 (Cheating Version Q - Infinite)",
+    "name": "Metal Slug 3 (Aks Sakura v7.5)",
     "system": "Arcade / FBNeo",
     "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug3cqi.zip"
   },
@@ -145,7 +145,7 @@
     "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug3zh.zip"
   },
   {
-    "name": "Metal Slug 4",
+    "name": "Metal Slug 4 ROM parent",
     "system": "Arcade / FBNeo",
     "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug4.zip"
   },
@@ -195,7 +195,7 @@
     "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug4u.zip"
   },
   {
-    "name": "Metal Slug 4 (ZJHL Hack)",
+    "name": "Metal Slug 4 (Aks Sakura v7.5)",
     "system": "Arcade / FBNeo",
     "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug4zjhl.zip"
   },
@@ -205,7 +205,7 @@
     "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug4zzf.zip"
   },
   {
-    "name": "Metal Slug 5",
+    "name": "Metal Slug 5 ROM parent",
     "system": "Arcade / FBNeo",
     "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug5.zip"
   },
@@ -230,7 +230,7 @@
     "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug5c.zip"
   },
   {
-    "name": "Metal Slug 5 (Cheating Version Q)",
+    "name": "Metal Slug 5 ((Aks Sakura v7.5)",
     "system": "Arcade / FBNeo",
     "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug5cq.zip"
   },
@@ -320,12 +320,12 @@
     "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslugdyf1.zip"
   },
   {
-    "name": "Metal Slug 1unity",
+    "name": "Metal Slug 1 unity",
     "system": "Arcade / FBNeo",
     "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslugunity.zip"
   },
   {
-    "name": "Metal Slug x",
+    "name": "Metal Slug x ROM parent",
     "system": "Arcade / FBNeo",
     "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslugx.zip"
   },
