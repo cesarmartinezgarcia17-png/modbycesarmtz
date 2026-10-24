@@ -5,11 +5,6 @@
     "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug.zip"
   },
   {
-    "name": "Metal Slug - Super Vehicle-001 (v2)",
-    "system": "Arcade / FBNeo",
-    "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug1v2.zip"
-  },
-  {
     "name": "Metal Slug 2 - ROM parent",
     "system": "Arcade / FBNeo",
     "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug2.zip"
@@ -18,11 +13,6 @@
     "name": "Metal Slug 2 - Super Vehicle-001/II (v2)",
     "system": "Arcade / FBNeo",
     "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug21v2.zip"
-  },
-  {
-    "name": "Metal Slug 2 (Crouching Tiger Hidden Dragon Hack)",
-    "system": "Arcade / FBNeo",
-    "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug2cthd.zip"
   },
   {
     "name": "Metal Slug 2 (Multifunction Hack)",
@@ -75,11 +65,6 @@
     "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug3c.zip"
   },
   {
-    "name": "Metal Slug 3 (Cheating Version Q)",
-    "system": "Arcade / FBNeo",
-    "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug3cq.zip"
-  },
-  {
     "name": "Metal Slug 3 (Aks Sakura v7.5)",
     "system": "Arcade / FBNeo",
     "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug3cqi.zip"
@@ -87,7 +72,7 @@
   {
     "name": "Metal Slug 3 (Cheating Version Q - TFB Hack)",
     "system": "Arcade / FBNeo",
-    "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug3cqqtfb.zip"
+    "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug3cqtfb.zip"
   },
   {
     "name": "Metal Slug 3 (Easy Boss Hack)",
@@ -95,19 +80,9 @@
     "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug3eb.zip"
   },
   {
-    "name": "Metal Slug 3 (Easy Start Hack)",
-    "system": "Arcade / FBNeo",
-    "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug3es.zip"
-  },
-  {
     "name": "Metal Slug 3 (God Mode Hack)",
     "system": "Arcade / FBNeo",
     "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug3g.zip"
-  },
-  {
-    "name": "Metal Slug 3 (God Weapon Hack)",
-    "system": "Arcade / FBNeo",
-    "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug3gw.zip"
   },
   {
     "name": "Metal Slug 3 (Hardcore Hack)",
@@ -120,29 +95,9 @@
     "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug3hmy.zip"
   },
   {
-    "name": "Metal Slug 3 (Light Weapon Hack)",
-    "system": "Arcade / FBNeo",
-    "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug3lw.zip"
-  },
-  {
-    "name": "Metal Slug 3 (Super Death Hack)",
-    "system": "Arcade / FBNeo",
-    "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug3sd.zip"
-  },
-  {
-    "name": "Metal Slug 3 (Special Edition Hack)",
-    "system": "Arcade / FBNeo",
-    "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug3se.zip"
-  },
-  {
     "name": "Metal Slug 3 (Unity Hack)",
     "system": "Arcade / FBNeo",
     "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug3unity.zip"
-  },
-  {
-    "name": "Metal Slug 3 (Zhong Hua Hack)",
-    "system": "Arcade / FBNeo",
-    "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug3zh.zip"
   },
   {
     "name": "Metal Slug 4 ROM parent",
@@ -150,24 +105,9 @@
     "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug4.zip"
   },
   {
-    "name": "Metal Slug 4 (v2)",
-    "system": "Arcade / FBNeo",
-    "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug41v2.zip"
-  },
-  {
     "name": "Metal Slug 4 (Alternate)",
     "system": "Arcade / FBNeo",
     "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug4a.zip"
-  },
-  {
-    "name": "Metal Slug 4 (Ammo Reset Hack)",
-    "system": "Arcade / FBNeo",
-    "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug4ammor.zip"
-  },
-  {
-    "name": "Metal Slug 4 (Clone C)",
-    "system": "Arcade / FBNeo",
-    "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug4c.zip"
   },
   {
     "name": "Metal Slug 4 (Multifunction Hack)",
@@ -175,24 +115,9 @@
     "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug4dg.zip"
   },
   {
-    "name": "Metal Slug 4 (Light Weapon Hack)",
-    "system": "Arcade / FBNeo",
-    "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug4lw.zip"
-  },
-  {
-    "name": "Metal Slug 4 (Light Weapon Q Hack)",
-    "system": "Arcade / FBNeo",
-    "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug4lwq.zip"
-  },
-  {
-    "name": "Metal Slug 4 (Alternate Q)",
-    "system": "Arcade / FBNeo",
-    "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug4q.zip"
-  },
-  {
     "name": "Metal Slug 4 (Unity Hack)",
     "system": "Arcade / FBNeo",
-    "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug4u.zip"
+    "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug4unity.zip"
   },
   {
     "name": "Metal Slug 4 (Aks Sakura v7.5)",
@@ -210,34 +135,14 @@
     "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug5.zip"
   },
   {
-    "name": "Metal Slug 5 (v2)",
-    "system": "Arcade / FBNeo",
-    "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug51v2.zip"
-  },
-  {
     "name": "Metal Slug 5 (Arranged Hack)",
     "system": "Arcade / FBNeo",
     "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug5an.zip"
   },
   {
-    "name": "Metal Slug 5 (Boss Hack)",
-    "system": "Arcade / FBNeo",
-    "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug5boss.zip"
-  },
-  {
-    "name": "Metal Slug 5 (Clone C)",
-    "system": "Arcade / FBNeo",
-    "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug5c.zip"
-  },
-  {
     "name": "Metal Slug 5 ((Aks Sakura v7.5)",
     "system": "Arcade / FBNeo",
     "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug5cq.zip"
-  },
-  {
-    "name": "Metal Slug 5 (Crouching Tiger Hack)",
-    "system": "Arcade / FBNeo",
-    "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug5ct.zip"
   },
   {
     "name": "Metal Slug 5 (Clone D)",
@@ -250,41 +155,6 @@
     "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug5dbj.zip"
   },
   {
-    "name": "Metal Slug 5 (Easy Start Hack)",
-    "system": "Arcade / FBNeo",
-    "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug5es.zip"
-  },
-  {
-    "name": "Metal Slug 5 (Extended Hack)",
-    "system": "Arcade / FBNeo",
-    "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug5ext.zip"
-  },
-  {
-    "name": "Metal Slug 5 (Final Hack)",
-    "system": "Arcade / FBNeo",
-    "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug5f.zip"
-  },
-  {
-    "name": "Metal Slug 5 (Machine Gun Hack)",
-    "system": "Arcade / FBNeo",
-    "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug5mg.zip"
-  },
-  {
-    "name": "Metal Slug 5 (Super God Hack)",
-    "system": "Arcade / FBNeo",
-    "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug5sg.zip"
-  },
-  {
-    "name": "Metal Slug 5 (Super God Final Hack)",
-    "system": "Arcade / FBNeo",
-    "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug5sgf.zip"
-  },
-  {
-    "name": "Metal Slug 5 (TMJ Hack)",
-    "system": "Arcade / FBNeo",
-    "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug5tmj.zip"
-  },
-  {
     "name": "Metal Slug 5 (Unity Hack)",
     "system": "Arcade / FBNeo",
     "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug5unity.zip"
@@ -293,26 +163,6 @@
     "name": "Metal Slug 5 w",
     "system": "Arcade / FBNeo",
     "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug5w.zip"
-  },
-  {
-    "name": "Metal Slug 5 x (Bootleg)",
-    "system": "Arcade / FBNeo",
-    "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug5x.zip"
-  },
-  {
-    "name": "Metal Slug 5 zh",
-    "system": "Arcade / FBNeo",
-    "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslug5zh.zip"
-  },
-  {
-    "name": "Metal Slug 1 dg)",
-    "system": "Arcade / FBNeo",
-    "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslugdg.zip"
-  },
-  {
-    "name": "Metal Slug 1 dqy",
-    "system": "Arcade / FBNeo",
-    "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslugdqy.zip"
   },
   {
     "name": "Metal Slug 1 dyf1",
@@ -333,11 +183,6 @@
     "name": "Metal Slug x 1v2",
     "system": "Arcade / FBNeo",
     "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslugx1v2.zip"
-  },
-  {
-    "name": "Metal Slug x 2r",
-    "system": "Arcade / FBNeo",
-    "downloadUrl": "https://archive.org/download/Fightcade2RomsMetalSlug/mslugx2r.zip"
   },
   {
     "name": "Metal Slug x 2r1v2",
